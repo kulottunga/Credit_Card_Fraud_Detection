@@ -32,33 +32,10 @@ Insights and Recommendations: Interpret the model’s results to provide actiona
 
 ⚙️ Dependencies
 
-Python 3.x
-
 Jupyter Notebook
 
 Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn, etc.
 
-📊 Results
-
-Model Performance: [Add key performance metrics, e.g., accuracy, precision, recall, F1-score]
-
-Feature Importance: [List the most influential features in detecting fraud]
-
-🚀 Usage
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Credit_Card_Fraud_Detection.git
-
-Navigate to the project directory:
-
-cd Credit_Card_Fraud_Detection
-
-Open the Jupyter notebook:
-
-jupyter notebook Credit_Card_Fraud_Detection.ipynb
-
-Follow the steps in the notebook to execute the analysis.
 
 ✅ Conclusion
 
